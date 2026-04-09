@@ -22,7 +22,7 @@ We leverage multi-modal physiological signals (e.g., BVP, EDA, temperature) from
 * Binary classification (baseline vs stress/amusement) significantly improved performance
 * Best accuracy: **~75% (LSTM, chest data)**
 * Dataset reduction (25%) maintained performance while reducing training time
-* Late fusion of wrist + chest data improved robustness
+* Late fusion of wrist + chest data
 
 ## Insights
 
